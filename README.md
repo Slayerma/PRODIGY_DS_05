@@ -85,7 +85,7 @@ Here are some visualizations and insights derived from the analysis:
 ![Weather Condition Analysis](Task5_10.png)
 
 ### 6. Hypothesis Testing Results
-![Hypothesis Testing](iTask5_6.png)
+![Hypothesis Testing](Task5_6.png)
 
 ## License
 
